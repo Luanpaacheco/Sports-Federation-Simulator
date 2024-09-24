@@ -2,6 +2,9 @@
 
 ## Overview
 ACMESports is a software development company focused on supporting sports competitions. This application is designed to manage athletes and medals for an international competition, offering a variety of functionalities to streamline the process.
+## Pontifícia Universidade Católica do Rio Grande do Sul
+### Prof. Marcelo H. Yamaguti
+### 2024/1
 
 ## Features
 - **Athlete Registration**: Register athletes with their relevant information.
@@ -29,7 +32,7 @@ ACMESports is a software development company focused on supporting sports compet
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ACMESports.git
+   git clone https://github.com/Luanpaacheco/Sports-Federation-Simulator.git
 
    
 Sinta-se à vontade para personalizar qualquer parte do texto ou adicionar informações específicas sobre o seu projeto. Se precisar de mais alguma coisa, é só avisar!
