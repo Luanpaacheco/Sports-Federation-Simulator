@@ -1,12 +1,36 @@
-A ACMESports é uma empresa que desenvolve software para apoio a competições esportivas.
-Esse é o aplicativo que controlará os atletas e as medalhas de uma competição internacional que tem determinadas funções:
-Cadastrar atletas
-Cadastrar medalhas
-Cadastrar medalhas e atletas correspondentes
-Mostrar os dados de um determinado atleta por número
-Mostrar os dados de um determinado atleta por nome
-Mostrar os dados de uma determinada medalha
-Mostrar os dados dos atletas de um determinado país
-Mostrar os dados atletas de um determinado tipo de medalha
-Mostrar os dados atletas de uma determinada modalidade
-Mostrar os dados do atleta com mais medalhas
+# ACMESports
+
+## Overview
+ACMESports is a software development company focused on supporting sports competitions. This application is designed to manage athletes and medals for an international competition, offering a variety of functionalities to streamline the process.
+
+## Features
+- **Athlete Registration**: Register athletes with their relevant information.
+- **Medal Registration**: Register medals awarded during the competition.
+- **Match Athletes to Medals**: Link athletes to the medals they have won.
+- **Data Retrieval**:
+  - Show details of an athlete by their number.
+  - Show details of an athlete by their name.
+  - Show details of a specific medal.
+  - Show athletes from a specific country.
+  - Show athletes who have won a specific type of medal.
+  - Show athletes competing in a specific sport.
+  - Show the athlete with the most medals.
+
+## Functionality
+1. **Register Athletes**: Input athlete details such as name, country, and sport.
+2. **Register Medals**: Input details of medals including type and year.
+3. **Match Athletes and Medals**: Associate athletes with the medals they have achieved.
+4. **Data Queries**: Easily retrieve information based on various criteria.
+
+## Requirements
+- Programming language: Java 
+- Text editor or IDE (e.g., Eclipse, IntelliJ IDEA)
+
+## Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/ACMESports.git
+
+   
+Sinta-se à vontade para personalizar qualquer parte do texto ou adicionar informações específicas sobre o seu projeto. Se precisar de mais alguma coisa, é só avisar!
+
