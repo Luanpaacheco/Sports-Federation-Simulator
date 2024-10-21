@@ -1,0 +1,11 @@
+1:11,Maria da Silva,Brasil
+2:111,1,true,Salto em altura
+3:111,11
+4:11,Maria da Silva,Brasil
+5:11,Maria da Silva,Brasil
+6:111,1,true,Salto em altura
+7:11,Maria da Silva,Brasil
+8:11,Maria da Silva,Brasil
+9:Salto em altura,1,11,Maria da Silva,Brasil
+10:11,Maria da Silva,Brasil,Ouro:1,Prata:0,Bronze:0
+
